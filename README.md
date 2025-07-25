@@ -32,8 +32,8 @@ An innovative Unity-based augmented reality application that brings NCERT books 
 ### Steps to Run  
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/ISTE-VIT/TexAR.git
-   cd TexAR
+   git clone https://github.com/vaibhavi102004/AR-accorto.git
+   cd AR-accorto
    ```  
 
 2. **Open in Unity:**  
