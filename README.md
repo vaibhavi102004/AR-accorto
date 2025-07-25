@@ -91,13 +91,3 @@ Contributions are welcome!
 </table>
 
 
-### Contributors
-
-- [Ashwani Kumar Moudgil](https://github.com/Ashwani1330)
-- [Raghav Sharma](https://github.com/rs0125)
-- [Rajan Hasija](https://github.com/rajan0810)
-- [Bhargav R](https://github.com/Bhargs24)
-- [Richa Haridas](https://github.com/richa368)
----
-
-<h4 align="center">Made with ❤️ by ISTE VIT </h4>
